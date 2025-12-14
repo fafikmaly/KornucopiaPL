@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "KornucopiaPL";
+    src:
+        url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format("woff2"),
+        url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, * {
+    font-family: "KornucopiaPL" !important;
+}
