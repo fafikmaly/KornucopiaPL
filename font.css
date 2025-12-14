@@ -1,12 +1,18 @@
+/* latin-ext */
 @font-face {
-    font-family: "KornucopiaPL";
-    src:
-        url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format("woff2"),
-        url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff") format("woff");
-    font-weight: normal;
-    font-style: normal;
+  font-family: KornucopiaPL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format('woff2');
+  unicode-range: U+0000-FFFD;
 }
-
-body, * {
-    font-family: "KornucopiaPL" !important;
+/* latin */
+@font-face {
+  font-family: 'KornucopiaPL';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format('woff2');
+  unicode-range: U+0000-FFFD;
 }
