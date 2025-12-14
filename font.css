@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format('woff2');
+  src: url("https://github.com/fafikmaly/KornucopiaPL/blob/main/KornucopiaPL.woff2") format('woff2');
   unicode-range: U+0000-FFFD;
 }
 /* latin */
@@ -13,6 +13,6 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("https://raw.githubusercontent.com/fafikmaly/KornucopiaPL/main/KornucopiaPL.woff2") format('woff2');
+  src: url("https://github.com/fafikmaly/KornucopiaPL/blob/main/KornucopiaPL.woff2") format('woff2');
   unicode-range: U+0000-FFFD;
 }
